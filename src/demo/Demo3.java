@@ -17,7 +17,8 @@ public class Demo3 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        int a, b;
+        int a;
+        int b;
         a = 3;
         b = 5;
         int result1 = MyLibrary.Sum(a, b);
